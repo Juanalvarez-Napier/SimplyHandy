@@ -1,0 +1,34 @@
+Resources used:
+
+https://www.seguetech.com/key-phases-software-development/ç
+Project Manager average salary:
+https://www.payscale.com/research/UK/Certification=Project_Management_Professional_(PMP)/Hourly_Rate
+Software Engineer average salary:
+https://www.payscale.com/research/UK/Job=Software_Engineer/Salary
+Average salary of software tester:
+https://www.payscale.com/research/UK/Job=Software_Tester/Salary
+Average salary of personal assistant:
+https://www.payscale.com/research/UK/Job=Personal_Assistant/Salary
+Average salary of software developer:
+https://www.payscale.com/research/UK/Job=Software_Developer/Salary
+
+SRS sample:
+https://techwhirl.com/writing-software-requirements-specifications/
+https://www.uccs.edu/Documents/tboult/srs.doc
+Completed SRS
+http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf
+GDPR:
+https://www.3bweb.com/blog/gdpr-compliance
+https://specopssoft.com/blog/gdpr-compliance-access-control-already/
+
+03/02/2019
+How to create login window:
+https://www.youtube.com/watch?v=72366X1-heg
+
+Which database to use?
+https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
+MongoDB
+https://www.youtube.com/watch?v=bKjH8WhSu_E
+
+System requirements for database server:
+http://download.nust.na/pub6/mysql/doc/workbench/en/wb-requirements-hardware.html
